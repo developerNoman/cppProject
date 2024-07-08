@@ -9,3 +9,5 @@
 </ul>
 
 > A blockquote would look great below the second list item.
+<a href="https://www.example.com/my great page">link</a>
+![Tux, the Linux mascot](tux.png)
