@@ -7,3 +7,5 @@
   <li>Its basic structure</li>
   <li>Its layout</li>
 </ul>
+
+> A blockquote would look great below the second list item.
