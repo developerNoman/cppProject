@@ -1,2 +1,9 @@
-# cppProject
-this is our c++ project which display the hello world
+<h1>This is our c++ project</h1>
+
+<p>Here are the course learning outcomes</p>
+<ul>
+  <li>c++</li>
+  <li>DSA</li>
+  <li>Its basic structure</li>
+  <li>Its layout</li>
+</ul>
